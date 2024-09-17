@@ -1,2 +1,2 @@
 OctoPrint
-pywemo
+pywemo~=1.0
